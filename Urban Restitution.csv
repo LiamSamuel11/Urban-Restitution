@@ -1,0 +1,18 @@
+XXXXXX,Covered Bench,Uncovered Bench,Shade Trees,Fountain,Planters,Art installations
+Round,0,0,1,1,0,1
+W,3,3,10,4,5,4
+H,1,1,10,4,2,4
+Temp+,4,3,5,3,3,3
+Temp-,2,4,1,3,2,3
+Wind+,2,1,3,3,2,2
+Wind-,4,5,2,3,3,4
+Rain+,2,1,4,2,2,2
+Rain-,4,5,3,4,3,4
+Sun+,5,3,5,4,5,3
+Sun-,2,3,1,3,2,3
+Pedestrian_Density+,3,4,2,3,3,3
+Pedestrian_Density-,4,3,4,3,3,4
+Privacy+,4,2,4,2,4,2
+Privacy-,2,4,1,4,3,4
+Aesthetics+,2,2,4,5,5,5
+Aesthetics-,3,3,2,2,2,1
