@@ -43,6 +43,9 @@ Inputs the previously created Geometries and some grid editing sliders to genera
 
 ### **Use cases:**
 
+<img width="878" height="458" alt="Urban Restitution Gif" src="https://github.com/user-attachments/assets/0118780c-3e57-451d-9532-678295969376" />
+
+
 The two primary use cases that were envisioned for Urban Restitution are a beginner architect trying to explore how to blend a building into the greater public realm through the streetscape, or an intermediate level architect trying to find a quick starting point to do further research and designing upon.
 
 Urban Restitution's strength is in its simplicity of use and purpose. A new designer would be able to set up the program and site in minutes and from there simply play with the sliders to explore the effectiveness of certain typologies under certain conditions. The tool in this case helps with learning as it can be used to experimentally learn what would work best for a design. 
